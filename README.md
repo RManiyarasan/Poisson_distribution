@@ -9,7 +9,7 @@
 
 # Aim : 
 
-To fit poisson distribution for the arrival of objects per minute from the feeder
+To fit poisson distribution for the arrival of objects per minute from the feeder 
 
 # Software required :  
 
