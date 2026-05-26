@@ -1,8 +1,8 @@
 # Fitting Poisson  distribution
- EXP NO: 2
- DATE: 27-4-26
- NAME: MANIYARASAN R
- REG NO: 212224040185
+ EXP NO: 2 
+ DATE: 27-4-26 
+ NAME: MANIYARASAN R 
+ REG NO: 212224040185 
 
 # Aim : 
 
